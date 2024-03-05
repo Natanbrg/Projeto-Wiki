@@ -1,0 +1,1 @@
+Este projeto consiste em recriar uma página de séries da “wikipédia” com layout mais moderno, utilizando HTML e CSS. 
